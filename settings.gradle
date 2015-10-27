@@ -1,3 +1,2 @@
-include 'EventBus'
-include 'EventBusTest'
-include 'EventBusPerformance'
+include ':EventBus'
+include ':EventBusPerformance'
